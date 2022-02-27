@@ -7,6 +7,6 @@ sklearn
 keras
 Pillow
 tweepy
-re
+regex
 nltk
 textblob
