@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+pandas_datareader
+sklearn
+keras
+PIL
+tweepy
+json
+re
+nltk
+textblob
