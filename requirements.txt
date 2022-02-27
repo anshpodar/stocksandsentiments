@@ -7,7 +7,6 @@ sklearn
 keras
 Pillow
 tweepy
-json
 re
 nltk
 textblob
