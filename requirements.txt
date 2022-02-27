@@ -5,7 +5,7 @@ matplotlib
 pandas_datareader
 sklearn
 keras
-PIL
+Pillow
 tweepy
 json
 re
