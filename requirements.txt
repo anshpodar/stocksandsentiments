@@ -9,5 +9,4 @@ keras
 Pillow
 tweepy
 regex
-nltk
 textblob
